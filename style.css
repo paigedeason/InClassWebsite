@@ -41,9 +41,10 @@ p {
     }
 
     .city-wrapper {
-        padding: 80px;
-        padding-left:120px;
         margin-bottom: 50px;
+        display: flex;
+        flex-direction: row;
         background-color: rgb(255, 255, 255);
+
     }
 
